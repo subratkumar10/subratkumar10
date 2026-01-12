@@ -4,7 +4,7 @@
 Back-end Software Developer at Oracle | Distributed Systems • Java/Spring Boot • Cloud/OCI
 
 - Building resilient network automation and backend services at scale (OCI Virtual Network) [1]
-- Passionate about system design, observability, and reliable automation
+- Passionate about system design, code optimization and brain storming complex architectures.
 
 ## 🔧 Technologies & Tools
 - Languages: Java, C++, Python, JavaScript
