@@ -33,7 +33,7 @@ Back-end Software Developer at Oracle | Distributed Systems • Java/Spring Boot
 
 
 ![Subrat’s GitHub stats](https://github-readme-stats.vercel.app/api?username=subratkumar10&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar10&amp;layout=compact&amp;theme=tokyonight&amp;cache_seconds=21600&amp;v=3)
 ![GitHub Streak](https://streak-stats.demolab.com?user=subratkumar10&theme=tokyonight)
 
 ## 📫 Connect
